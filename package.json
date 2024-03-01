@@ -1,11 +1,11 @@
 {
   "name": "api-wilayah-indonesia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "API untuk mendapatkan data wilayah Indonesia",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arieffakhrudin/api-wilayah-indonesia.git"
+    "url": "https://github.com/arieffakhrudin/api-wilayah-indonesia"
   },
   "keywords": [
     "api",
