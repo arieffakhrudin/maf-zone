@@ -1,6 +1,6 @@
 {
   "name": "api-wilayah-indonesia",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "API untuk mendapatkan data wilayah Indonesia",
   "main": "app.js",
   "repository": {
