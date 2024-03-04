@@ -1,0 +1,26 @@
+{
+  "name": "maf-blockchain",
+  "version": "1.0.0",
+  "description": "Ready to use blockchain technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arieffakhrudin/maf-blockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "M. Arief Fakhrudin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arieffakhrudin/maf-blockchain/issues"
+  },
+  "homepage": "https://github.com/arieffakhrudin/maf-blockchain#readme",
+  "dependencies": {
+    "api-wilayah-indonesia": "^1.0.4",
+    "maf-converter": "^1.0.2"
+  }
+}
