@@ -1,6 +1,6 @@
 {
   "name": "maf-zone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API untuk mendapatkan data wilayah Indonesia",
   "main": "app.js",
   "repository": {
@@ -25,6 +25,7 @@
     "maf-blockchain": "^1.0.0",
     "maf-converter": "^1.0.2",
     "maf-icons": "^1.0.0",
+    "maf-image": "^1.0.0",
     "maf-string": "^1.0.0",
     "maf-table": "^1.0.0",
     "mysql": "^2.18.1"
