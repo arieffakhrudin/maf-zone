@@ -1,6 +1,6 @@
 {
   "name": "maf-blockchain",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ready to use blockchain technology",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "dependencies": {
     "api-wilayah-indonesia": "^1.0.4",
     "maf-converter": "^1.0.2",
+    "maf-icons": "^1.0.0",
     "maf-string": "^1.0.0"
   }
 }

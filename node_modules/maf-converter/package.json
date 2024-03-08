@@ -1,6 +1,6 @@
 {
     "name": "maf-converter",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Package for convert everything",
     "main": "index.js",
     "author": "Arief Fakhrudin",
@@ -20,6 +20,7 @@
     "dependencies": {
         "api-wilayah-indonesia": "^1.0.4",
         "maf-blockchain": "^1.0.0",
+        "maf-icons": "^1.0.0",
         "maf-string": "^1.0.0"
     }
 }
