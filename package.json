@@ -1,6 +1,6 @@
 {
   "name": "api-wilayah-indonesia",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "API untuk mendapatkan data wilayah Indonesia",
   "main": "app.js",
   "repository": {
@@ -22,6 +22,7 @@
     "express": "^4.18.2",
     "maf-blockchain": "^1.0.0",
     "maf-converter": "^1.0.2",
+    "maf-icons": "^1.0.0",
     "maf-string": "^1.0.0",
     "mysql": "^2.18.1"
   }
